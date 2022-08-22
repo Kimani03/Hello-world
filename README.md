@@ -2,4 +2,4 @@
 
 My first repository
 
-Hello guys I love chicken and juice
+I love :coffee: :pizza: ,and :dancer:.
